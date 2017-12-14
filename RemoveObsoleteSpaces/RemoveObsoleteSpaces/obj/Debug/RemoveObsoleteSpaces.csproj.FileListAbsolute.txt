@@ -1,0 +1,13 @@
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.exe.config
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.exe
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.pdb
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.csprojResolveAssemblyReference.cache
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.exe
+C:\Users\piwrpl\Google Drive\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.pdb
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.exe.config
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.exe
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\bin\Debug\RemoveObsoleteSpaces.pdb
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.exe
+C:\Users\Piotr\Dysk Google\VS_PROJECTS\RemoveObsoleteSpaces\RemoveObsoleteSpaces\obj\Debug\RemoveObsoleteSpaces.pdb
